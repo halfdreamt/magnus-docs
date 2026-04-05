@@ -1,0 +1,8 @@
+# Ignore everything by default
+*
+
+# Track personal workspace files
+!.gitignore
+!CLAUDE.md
+!docs/
+!docs/**
