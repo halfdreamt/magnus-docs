@@ -37,4 +37,4 @@ General starting point for Claude Code sessions. For project-specific context, n
 | Path | Description |
 |------|-------------|
 | `C:\Users\Ryan\desktop\OpusIVSEcosystem\` | Opus ADAS Calibration Ecosystem orchestrator |
-| `C:\Users\Ryan\bin\jq.exe` | JSON processing tool |
+| `jq` (on PATH) | JSON processing tool — winget-installed (jqlang.jq). Real exe: `C:\Users\Ryan\AppData\Local\Microsoft\WinGet\Packages\jqlang.jq_Microsoft.Winget.Source_8wekyb3d8bbwe\jq.exe` |
