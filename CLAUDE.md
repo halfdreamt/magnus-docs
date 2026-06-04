@@ -1,6 +1,8 @@
 # Desktop Workspace
 
-General starting point for Claude Code sessions. For project-specific context, navigate to the project directory where its own CLAUDE.md will take precedence.
+General starting point for Claude Code sessions on Ryan's desktop. For project-specific context, navigate to the project directory where its own CLAUDE.md will take precedence.
+
+The primary active project here is **Magnus3** — a C++ (flecs ECS) hierarchical event-simulation engine. Read `C:\Users\Ryan\desktop\Magnus3\CLAUDE.md` before working in it; it describes the 7-layer "classical planets" architecture (Zeus/Rule, Venus/Ecology, etc.), single-writer ownership, tick ordering, and Divine Domain Administration.
 
 ## Rules for Claude Code
 
@@ -36,5 +38,6 @@ General starting point for Claude Code sessions. For project-specific context, n
 
 | Path | Description |
 |------|-------------|
-| `C:\Users\Ryan\desktop\OpusIVSEcosystem\` | Opus ADAS Calibration Ecosystem orchestrator |
+| `C:\Users\Ryan\desktop\Magnus3\` | Magnus3 simulation engine (C++/flecs). See its own `CLAUDE.md` for architecture. |
+| `C:\Users\Ryan\desktop\docs\logs\` | Weekly logs (`YYYY-MM-DD.md`, Monday-of-week) |
 | `jq` (on PATH) | JSON processing tool — winget-installed (jqlang.jq). Real exe: `C:\Users\Ryan\AppData\Local\Microsoft\WinGet\Packages\jqlang.jq_Microsoft.Winget.Source_8wekyb3d8bbwe\jq.exe` |
