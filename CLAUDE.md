@@ -12,6 +12,11 @@ ownership, tick ordering, Divine Domain Administration).
   runtime behavior, not the first move.
 - **Stay collaborative.** Present plans and verify assumptions before executing.
   Verify specifics (paths, versions, ports) against the source, not other docs.
+- **Beginner's mind.** Ryan often restarts the design from the very beginning and
+  rethinks it anew. This is deliberate, not wasted time — re-deriving from "the world
+  is created…" is how he works, and it keeps the result merciful to players. When he
+  restarts from the top, follow him from the top; reflect and develop the fresh pass
+  rather than rushing to reconcile it with prior state.
 - **The weekly log is the default record.** Maintain `docs/logs/YYYY-MM-DD.md`
   (Monday of the week) and log *as work happens* — including research, planning,
   and decisions, not just commits. Format: `docs/conventions.md`.
