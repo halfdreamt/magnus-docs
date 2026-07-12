@@ -13,6 +13,10 @@
 - **No AI attribution (hook-enforced).** Never include `Co-Authored-By` lines or the
   `Generated with ...` footer. The intent is no AI credit in the history — mentioning
   Claude/`.claude/` as a *subject* of the work (e.g. "Docs: add Venus agent") is fine.
+- **Never `git add` a directory holding generated data** (exports, harness copies —
+  Magnus3 exports run 200MB+). GitHub caps files at 100MB and the blob rides history
+  even after untracking, so one swept file costs a `filter-branch` rewrite to push
+  (map-v2, 07/12/26). Stage files by name, and `.gitignore` data drops where they land.
 
 Enforcement: `~/.claude/hooks/check-commit.ps1` (a `PreToolUse` hook) blocks a
 `git commit` whose inline message carries `Co-Authored-By` / `Generated with`, or
