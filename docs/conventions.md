@@ -2,11 +2,6 @@
 
 ## Git commits
 
-- **Approval-first (behavioral — not machine-enforced).** Never run `git commit`
-  without first presenting the *exact* proposed commit message and receiving
-  explicit approval. No exceptions. This is about showing the message first, which
-  a hook can't verify, so it lives here as discipline. (The permission prompt gates
-  the commit itself; this rule is the courtesy of showing intent before acting.)
 - **Type prefix (hook-enforced).** Every message starts with a type:
   `Feat:`, `Fix:`, `Refactor:`, `Docs:`, `Test:`, `Chore:`, `Perf:`, `Style:`,
   `Build:`, `CI:`, `Revert:`.
@@ -21,8 +16,8 @@
 Enforcement: `~/.claude/hooks/check-commit.ps1` (a `PreToolUse` hook) blocks a
 `git commit` whose inline message carries `Co-Authored-By` / `Generated with`, or
 that lacks a type prefix. It inspects only the command string, so editor- and
-`-F file`-based commits pass through unchecked, and approval-first is never
-machine-checkable. To tighten it (e.g. also block the literal word "Claude"), edit
+`-F file`-based commits pass through unchecked. To tighten it (e.g. also block the
+literal word "Claude"), edit
 the `$forbidden` list in that script — but note that will reject commits that name
 the `.claude/` agent files.
 

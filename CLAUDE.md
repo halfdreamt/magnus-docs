@@ -20,8 +20,8 @@ ownership, tick ordering, Divine Domain Administration).
 - **The weekly log is the default record.** Maintain `docs/logs/YYYY-MM-DD.md`
   (Monday of the week) and log *as work happens* — including research, planning,
   and decisions, not just commits. Format: `docs/conventions.md`.
-- **Commits** are approval-first, type-prefixed, and carry no AI attribution. The
-  type-prefix and attribution rules are enforced by a hook; full convention in
+- **Commits** are type-prefixed and carry no AI attribution. These rules are
+  enforced by a hook; full convention in
   `docs/conventions.md`.
 - **Windows gotchas** (absolute paths, `curl`/`jq` piping, encoding) live in
   `docs/conventions.md` — check there before fighting a Windows-specific tool
