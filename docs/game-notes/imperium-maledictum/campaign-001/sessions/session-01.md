@@ -32,13 +32,51 @@ out-of-character remarks prefixed `(OOC: ...)`; seeded rolls via
    (Muniment, unnamed in-fiction so far): report to Acquisitor Vault
    Alpha-XIII, authority Herazade Vex-Kappa-9, "bring nothing." Vesper
    complied immediately and correctly.
-3. **The catechism (in progress).** Herazade received him among the sealed
-   crates; called him "Initiate" (the rank in her ledger). Q1: is the
-   danger in what is found, or in what is wanted? Vesper: danger is in
+3. **The catechism.** Herazade received him among the sealed crates;
+   called him "Initiate" (the rank in her ledger). Q1 (found vs wanted):
    want diverging from His will; xenos finds dangerous in themselves. She
-   kept his first clause, refined it to her creed, and pressed the second:
-   sealed on the shelf, or in the hand that wants it opened? — awaiting
-   his answer.
+   kept the first, refined it to her creed, pressed the second (shelf vs
+   hand). Vesper: "the hand that wants it opened" — and extended it
+   unprompted: all the more reason to replace weak flesh with holy steel.
+   She: "correct, and further than correct"; warned him not to mistake the
+   augmetic for the virtue.
+4. **The compact and the oath.** She offered independence, equipment, her
+   name — for reporting, preserved evidence, containment always — and
+   revealed she has read his log entry forty-one times. Vesper swore an
+   unasked oath upon the Trinity and the Sixteen Universal Laws, knelt,
+   named the Cult Mechanicus, then "…and the Imperium" as a visible
+   afterthought. She heard the order, chose not to correct it, blessed
+   him with a mechadendrite, bade him rise.
+5. **The Investiture.** He begged instruction on the tether (invoking her
+   own valuation of curiosity); she taught: aperture, not repair;
+   connection undertaken, not installed; a failed parting burns and
+   remembers. He consented — and said he could already hear it ringing;
+   she flagged that as either metaphor or the same threshold-hearing,
+   and vowed to test it. Surgery played through, conscious; she spoke
+   his whole name outside the liturgy during the rite. Involuntary
+   half-second of noospheric sight at seating (the tether's spirit turned
+   and looked at him). Vesper: "I am not deserving… but I swear to become
+   so." She struck "deserving" from his catechism: "we trade in
+   containment."
+6. **First communion (music-loom).** Attempt 1 refused (he grasped);
+   attempt 2 succeeded (+3 SL) by leaning into the pull within the
+   Supplication of Elucidation — canon C17 adopted at the table. Inside:
+   greeted the loom ("friend spirit," "spirit-brother"), listened, read
+   its history (+2 SL): eleven nested Canticles; a Tran'lo threnody in
+   Herazade's own rite-cadence; carried aboard by mechadendrite-folded
+   hands (hers); never before asked anything. Asked for the lullaby
+   (auto-success, thin): three pre-liturgical pins — a cradle-engine's
+   heart, a wordless human hum, older than the frets. Withdrew
+   courteously; loom's hum a quarter-tone warmer thereafter.
+7. **The report.** Containment verdict first ("pure; nothing needs
+   containment"), then everything — including the lullaby, its likely
+   Dark Age origin ("I cannot say the period was enlightened"), and the
+   deliberate courtesy "someone truly important brought this aboard."
+   Herazade faltered half a beat (forty years, never heard it sing),
+   asked him to log it exact for later, acknowledged the thread he
+   didn't have to give, declined to finish the sentence about who
+   carried it, and closed the Investiture. Next: the lighter bay and the
+   Voll mandate.
 
 ## NPCs and factions encountered
 
@@ -63,14 +101,35 @@ out-of-character remarks prefixed `(OOC: ...)`; seeded rolls via
 
 ## Mechanical changes
 
-- Influence:
-- XP:
-- Equipment or money:
-- Injuries or Conditions:
-- Other:
+- Influence: no change (Vesper +1 AdMech).
+- XP: +40 (prelude complete) → 65 banked.
+- Equipment or money: Noospheric data-tether installed (Exotic, Master
+  Crafted; +1 SL on connection Tests). Augmetic slots: 3 of 4 used.
+- Injuries or Conditions: post-surgical soreness, no mechanical effect
+  (Excellent-quality medicae).
+- Other: Herazade's disposition — trust demonstrably increased; one open
+  private ledger line between them (the lullaby / who carried the loom).
 
 ## Established canon
 
+- Vesper's tether is in; his first communion was clean; his connection
+  method (attend to the pull within the Rite; do not grasp) is learned.
+- Herazade's music-loom came from Tran'lo in her own hands ~40 years ago;
+  its cylinder-drum predates its liturgy — three pins carry a wordless
+  human lullaby, likely Dark Age. She did not know. She has asked for an
+  exact log later. (GM: this is a new thread — cradle-engine origin; keep
+  it small and let it grow. Ties loosely to T1's "machines that remember
+  being loved.")
+- Vesper's oath: Cult Mechanicus first, Imperium after — on the record.
+- Herazade said his whole name during the rite, outside liturgy. Both
+  noticed. Neither has spoken of it.
+
 ## Open threads
+
+- The lullaby / cradle-engine origin of the loom (Vesper to log exact).
+- Who carried the loom aboard — mutually unspoken; a closed ledger.
+- Herazade's promised "test" of his threshold-hearing: partially
+  answered by the loom's response; she has not said so.
+- Next: the lighter bay, the pilot, the Voll mandate.
 
 ## End state and next scene

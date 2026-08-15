@@ -18,7 +18,7 @@ who lights the incense, hums the old Ferropsalm, and listens for what the
 | Origin | Forge World — Recollections of Rust (PG p55) | +5 Toughness; 1 advance Tech (Security) |
 | Faction | Adeptus Mechanicus, Augmented Grade I — Apprentice Rune Priest duty (PG p56) | +5 Int, +5 Tgh; Lore 1, Rapport 2, Tech 2; Augmetic Leg, Augmetic Ears; +1 AdMech Influence; robes, Opus Machina, dataslate, sacred unguents, 100 solars; initiation augmetics (electoo, cranial circuitry, cyber mantle, electro-grafts, potentia coils — no cap cost) |
 | Role | Savant (core p78), assigned by Patron (+50 XP, PG p49) | Logic 2, Piloting 1; specialisations Lore (Cult Mechanicus) 1, Tech (Engineering) 1; Talents Data Delver, Eidetic Memory; equipment below |
-| XP spend (75) | Discipline 1 advance (50 XP) | 25 XP banked |
+| XP spend (75) | Discipline 1 advance (50 XP) | 25 XP banked; +40 XP Session 01 prelude → 65 banked |
 
 ## Characteristics
 
@@ -96,8 +96,9 @@ perceive and use the noosphere (PG p97). The Master Crafted work grants
 - **Opinion of the Patron:** gratitude shading into wariness — Herazade's
   gifts are generous, precise, and always arrive before Vesper knows to
   ask.
-- **Connections:** Curator-adjacent menials of the Rustfall deck where they
-  were raised; the overseer who signed the "dead" cogitator off as scrap
+- **Connections:** the devotional music-loom in Herazade's Augmetics Bay
+  (first communion; "spirit-brother"); Curator-adjacent menials of the
+  Rustfall deck where he was raised; the overseer who signed the "dead" cogitator off as scrap
   (and hasn't forgiven the correction); the Arvus pilot (to be introduced
   in the prelude).
 

@@ -65,6 +65,16 @@ other characters, no deciding outcomes, no new scene events.
   Investiture (tether "that has waited longer than you have been alive")
   — offered, not commanded. Watching whether ambition or piety wins long
   term.
+- [Session 01, Investiture + communion] Performed the rite herself; said
+  his full name outside liturgy (unplanned). He connected on second
+  attempt; the loom's hum reached a register she'd never heard. His
+  report led with containment, disclosed everything incl. the lullaby
+  and the courteous near-naming of her as the loom's carrier. She
+  faltered half a beat; asked for an exact log later; "you did not have
+  to give me that thread"; declined to finish the sentence about who
+  carried it. Closed the Investiture; leading him to the lighter bay
+  and the Voll mandate. Privately: shaken and thrilled — Dark Age
+  provenance under her own custody for forty years, unnoticed.
 - Agent note: transcript resumption can expire between beats; re-seat
   from this brief + scene summary. Latest agent id noted in session
   record.
