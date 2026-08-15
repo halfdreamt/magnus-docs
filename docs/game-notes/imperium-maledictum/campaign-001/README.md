@@ -23,11 +23,15 @@ An agent taking over as GM should:
    current shared baseline.
 4. Read [patron.md](patron.md) for the accepted Patron direction and remaining
    Patron decisions.
-5. Use [character-creation.md](character-creation.md) for the next conversation.
-6. Read [tools/README.md](tools/README.md) before the first rolled Test or
+5. If acting as GM, read `gm/README.md` and `gm/insights.md` — and observe
+   their spoiler-hygiene rules in everything player-facing.
+6. Use [character-creation.md](character-creation.md) and
+   [character-options.md](character-options.md) for the next conversation.
+7. Read [tools/README.md](tools/README.md) before the first rolled Test or
    encounter, and [table-tools.md](table-tools.md) before preparing a map.
-7. Query the corpus before making a consequential or uncertain ruling.
-8. Update campaign state and append a session record whenever play advances.
+8. Query the corpus before making a consequential or uncertain ruling, via
+   the routing guide in `sources/wh40k-imperium-maledictum/retrieval/README.md`.
+9. Update campaign state and append a session record whenever play advances.
 
 ## Next objective
 
@@ -42,6 +46,11 @@ it changes at the table.
 
 ## Play support
 
+- [Character and campaign options](character-options.md): worked concept
+  pitches, patron Boon package, ship path, and initial-path proposal awaiting
+  Ryan's review.
+- `gm/`: GM-only preparation. Player-facing agents must not quote or
+  summarise it; see `gm/README.md` for the spoiler-hygiene rules.
 - [Patron working design](patron.md): accepted mechanical foundation, mandate,
   relationship to the prospective character, and open decisions.
 - [Campaign utility kit](tools/README.md): dependency-free dice, d100 Test

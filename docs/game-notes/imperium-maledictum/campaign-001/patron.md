@@ -99,17 +99,26 @@ rather than a checklist to maximise.
 - **Tech-Acquisitor:** the strongest expression of the Patron's
   technoarcheological speciality. It assists with Rare equipment and can allow
   requests for Exotic technology at the GM's discretion. This is distinct from
-  the Invictus Acquisitor Duty despite the similar name.
+  the Invictus Acquisitor Duty despite the similar name. It matters doubly
+  because the Noospheric data-tether is Exotic (5,000 solars) and Exotic items
+  are never in market stock; a Patron route is effectively required.
 - **Augmetics Bay:** the strongest support for the protagonist's physical and
   noospheric development. It removes Availability Tests for Augmetics, provides
   free surgery, and improves installed augmetics.
+- **Void Logistician** (Macharian Requisition Guide p110): provides the party
+  with an Arvus Lighter — a void-capable workhorse shuttle — and a retained
+  NPC pilot. Requisition Guide Patron Boons may be chosen at Patron creation
+  or granted later as narrative milestones (p109). Directly serves Ryan's
+  standing ship goal.
 - **Conclave of Expertise:** particularly useful for a solo investigator. Once
   per mission, Mechanicus experts can provide a substantial bonus to a relevant
   Logic, Lore, or Tech Test or point the investigation toward an essential clue.
 
-The leading candidates are Tech-Acquisitor and Augmetics Bay. None of the
-additional Boons, and therefore none of their corresponding secret
-Liabilities, are selected yet.
+The proposed package under review in
+[character-options.md](character-options.md) is Tech-Acquisitor + Augmetics
+Bay + Void Logistician, with Conclave of Expertise's function covered
+narratively by the Patron's network. None of the additional Boons, and
+therefore none of their corresponding secret Liabilities, are selected yet.
 
 ## Still to decide
 
@@ -135,7 +144,12 @@ All routes are beneath
   `core-mechanics/topics/001.md` and `002.md`.
 - Tech-Adept augmentation levels and roles:
   `admech-players-guide-mechanics/topics/002.md`.
-- Noospheric data-tether:
-  `admech-players-guide-mechanics/topics/005.md`.
+- Noospheric data-tether (augmetics tables and entries):
+  `admech-players-guide-mechanics/topics/004.md`.
 - Noosphere access and risks:
   `admech-players-guide-mechanics/topics/007.md`.
+- Requisition Guide Patron Boons and Liabilities:
+  `macharian-requisition-guide-mechanics/topics/005.md`.
+
+See `sources/wh40k-imperium-maledictum/retrieval/README.md` for corrected
+routing tables and extraction errata before following any route.

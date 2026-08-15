@@ -56,8 +56,10 @@ accepted preparation, not events established in the fiction.
   themes need to be used without agreement.
 - Guided choices versus random generation. Random character-generation choices
   can award XP; deliberate choices provide more control.
-- Which optional Patron Boons the players want; leading candidates are
-  Tech-Acquisitor and Augmetics Bay.
+- Which optional Patron Boons the players want; the reviewed proposal in
+  `character-options.md` is Tech-Acquisitor + Augmetics Bay + Void
+  Logistician (the last from the Macharian Requisition Guide, granting an
+  Arvus Lighter and pilot).
 - Whether the protagonist's Noospheric data-tether is installed during
   character creation or granted in an opening prelude.
 

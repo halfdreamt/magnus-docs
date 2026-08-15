@@ -38,19 +38,26 @@ The strongest starting path to examine first is:
 
 - Adeptus Mechanicus Faction at Augmented Grade I, preserving the feeling of a
   novice with substantial room to ascend;
-- the Apprentice Explorator package as the initial benchmark because it
+- the Apprentice Explorator **Duty package** (a pre-allocated spend of Grade
+  I's own bonuses, not an extra grant) as the initial benchmark because it
   emphasises Intelligence, Perception, Logic, Lore, Tech, and archeotech
   recovery;
 - Lexmechanic as the investigation-and-data Role or Transmechanic as the
   communication, discipline, and machine-communion Role;
-- a Noospheric data-tether installed at creation or bestowed during an opening
-  prelude, with the exact acquisition path agreed openly.
+- a Noospheric data-tether bestowed during an opening prelude, with the exact
+  acquisition path agreed openly. Note it is Exotic (never in market stock),
+  so the realistic route is through the Patron, and it occupies one slot of
+  the Grade I augmetic capacity (Toughness Bonus), two slots of which are
+  already spent at creation.
 
-Do not treat this list as already selected. Compare Lexmechanic and
-Transmechanic in play terms before applying their benefits, then ensure the
-chosen build has Discipline (Composure), Tech (Security), and investigative
-competence sufficient to make noospheric interaction a strength with meaningful
-risk rather than an automatic solution.
+Worked pitches, patron-package proposal, and an initial-path proposal are in
+[character-options.md](character-options.md), pending Ryan's review. Compare
+Lexmechanic and Transmechanic in play terms before applying their benefits,
+then ensure the chosen build has Discipline (Composure), Tech (Security), and
+investigative competence sufficient to make noospheric interaction a strength
+with meaningful risk rather than an automatic solution. Letting the Patron
+choose the Role after Ryan picks the concept is worth +50 XP (Player's Guide
+p49) and is diegetically clean.
 
 ## Eight core steps
 

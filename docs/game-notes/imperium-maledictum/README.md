@@ -44,11 +44,15 @@ text is required. A useful workflow is:
 5. Summarise the result in campaign notes; preserve the source route for later
    verification.
 
-The search vocabulary comes mostly from headings and entry labels, not every
-word in the prose. Broad queries can therefore miss a relevant passage or
-return a broad topic containing an incidental match. OCR also fragments some
-display headings. Search aliases help, but exact rulings still require reading
-the routed topic.
+Since 2026-08-14 the index vocabulary covers each topic's full body text
+(words of three or more letters), so subject-word queries reliably surface
+every topic that mentions them; expect broad queries to return broad results.
+OCR still fragments some display headings, so the generated per-collection
+topic labels can be mangled or unrepresentative. Read
+`sources/wh40k-imperium-maledictum/retrieval/README.md` first: it carries
+corrected routing tables for all ten collections, transcript-grep guidance,
+and an errata section for known extraction defects (notably the Augmented
+Grade II/III scramble). Exact rulings still require reading the routed topic.
 
 ## Core source routes
 
