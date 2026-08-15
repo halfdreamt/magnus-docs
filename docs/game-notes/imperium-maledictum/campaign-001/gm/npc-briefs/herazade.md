@@ -50,3 +50,21 @@ other characters, no deciding outcomes, no new scene events.
 
 - [Session 01] Summoned Vesper to Vault Alpha-XIII for the Investiture
   ("bring nothing — all is provided"). First on-screen meeting.
+- [Session 01, catechism] Called him "Initiate" (ledger rank). Q1
+  (found vs wanted) — he answered well; Q2 (shelf vs hand) — "the hand
+  that wants it opened," extended unprompted to steel-as-disciplined-want.
+  She: "correct, and further than correct"; warned against mistaking the
+  augmetic for the virtue. Offered the compact; revealed she has read his
+  log entry forty-one times.
+- [Session 01, oath] He swore unasked, upon the Trinity and the Sixteen
+  Universal Laws, and knelt — naming the Cult Mechanicus first and "the
+  Imperium" as a visible afterthought after the bow. She heard the order
+  and chose NOT to correct it: "the order will correct itself, or it will
+  not, and either answer teaches me something true." Blessed him with a
+  mechadendrite at the shoulder; bade him rise; is leading him toward the
+  Investiture (tether "that has waited longer than you have been alive")
+  — offered, not commanded. Watching whether ambition or piety wins long
+  term.
+- Agent note: transcript resumption can expire between beats; re-seat
+  from this brief + scene summary. Latest agent id noted in session
+  record.

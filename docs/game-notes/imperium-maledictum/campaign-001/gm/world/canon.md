@@ -104,6 +104,16 @@ in play.
   free quality): +1 SL to the Discipline (Composure) connection Test. A
   gift that whispers of how much was spent on a novice.
 
+- **C17 — Rites and connection.** A Binharic Rite spoken specifically to
+  prepare a noospheric connection (e.g. Supplication of Elucidation as a
+  petition to be admitted) grants Advantage on the Discipline (Composure)
+  connection Test, in addition to the book's Advantage on the subsequent
+  Tech Test. Books-adjacent house rule (PG p122, p131 grant Rite Advantage
+  only to Tech Tests); adopted 2026-08-15 so the fiction of prayer and the
+  dice agree. Process: every PC Test declaration names its modifiers and
+  passes them explicitly to imtool (`--advantage`, `--sl-modifier`) so any
+  roll can be audited against its declaration.
+
 ## OPEN ledger
 
 - **O1 — Whether Herazade becomes the next Ferric Locum** (Act 4 hinge;
@@ -117,7 +127,7 @@ in play.
   (Balevolio/Korshad), Pavo-6's darkness** — Ark texture hooks, unassigned.
 - **O5 — Second-player characters** (see weave.md multi-player readiness);
   TABLE when the new player-agents arrive.
-- **O6 — Content boundaries.** TABLE: tone limits from campaign-state.md
-  "Confirm before play" have not been explicitly confirmed by Ryan; default
-  to wonder-forward grimdark, fade-to-black on body horror specifics, until
-  asked.
+- **O6 — Content boundaries.** SETTLED (Ryan, 2026-08-15): gore, blood,
+  and body horror are welcome when they carry narrative value; not sought
+  for their own sake. Play horror at full weight when it matters; skip
+  when it doesn't.

@@ -29,11 +29,17 @@ after each session or notable beat.
 - **MANDATORY — authorship (Ryan, 2026-08-14):** the GM never resolves a
   PC's dialogue or actions beyond the player's stated intent. If an NPC
   reaction requires a PC response the player has not given, pause the
-  scene and return to the player — even mid-beat. Any NPC-agent dispatch
-  that must contain PC words or conduct is shown to the player in full
-  and signed off BEFORE it is sent. (Violated in Session 01's flashback —
+  scene and return to the player — even mid-beat. For NPC-agent dispatches
+  containing PC words: only the translated canon line itself is shown
+  (amended by Ryan, 2026-08-15) — quote it, then proceed WITHOUT waiting
+  for sign-off unless the translation makes a major change to meaning or
+  adds content Ryan did not imply. Reserve explicit sign-off for those
+  cases only. (Violated in Session 01's flashback —
   the pressed-for-specifics exchange was pre-rendered without Ryan;
   rewind offered.)
+- **No seeds at the table (Ryan, 2026-08-15):** roll results are shown
+  (roll, target, SL); seeds go only to the session record's roll-audit
+  section. Sheets carry no seeds.
 - **NPC subagents:** recurring NPCs get persistent briefs in
   `npc-briefs/`; brief interactions may be delegated to small
   (Haiku/Sonnet-class) subagents that receive ONLY their character's
@@ -53,6 +59,15 @@ after each session or notable beat.
 - Stated loves (pre-campaign): exotic gear and tech, "finding something
   and being able to use it, or figure it out. Unlocking powers from the
   past." Ship ownership with friends aboard. Mercy as a table value.
+- **Content boundaries (Ryan, 2026-08-15):** does not shy from blood,
+  gore, body horror — finds them interesting in-setting — but is not
+  seeking them out. Rule: play horror at full weight when it carries
+  narrative value; skip when it doesn't. Canon O6 updated accordingly.
+- Session 1: swore an unasked oath, knelt; named the Cult before the
+  Imperium (visible afterthought — Herazade noticed, chose not to
+  correct). Invokes NPCs' own stated values to license his asks. Uses
+  liturgy as self-steadying ("The flesh is weak" as private mantra) — give
+  him rites to hold onto in hard moments; he'll use them.
 - Watch for (to be updated in play): risk appetite, combat interest,
   preferred pacing.
 

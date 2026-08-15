@@ -14,7 +14,7 @@ who lights the incense, hums the old Ferropsalm, and listens for what the
 
 | Step | Choice | Grants |
 | --- | --- | --- |
-| Characteristics | Rolled 2d10+20 ×9, rearranged (+25 XP) | Rolls 38, 29, 26, 29, 30, 34, 26, 29, 34 — seeds 9408506571313829110, 14322757292927687260, 3854443507518907911, 9494015354067434163, 4684780511028258541, 17452008852967923806, 10785564014238954256, 13699932282218616426, 12655697918485215715 |
+| Characteristics | Rolled 2d10+20 ×9, rearranged (+25 XP) | Rolls 38, 29, 26, 29, 30, 34, 26, 29, 34 (seeds in sessions/session-01.md)|
 | Origin | Forge World — Recollections of Rust (PG p55) | +5 Toughness; 1 advance Tech (Security) |
 | Faction | Adeptus Mechanicus, Augmented Grade I — Apprentice Rune Priest duty (PG p56) | +5 Int, +5 Tgh; Lore 1, Rapport 2, Tech 2; Augmetic Leg, Augmetic Ears; +1 AdMech Influence; robes, Opus Machina, dataslate, sacred unguents, 100 solars; initiation augmetics (electoo, cranial circuitry, cyber mantle, electro-grafts, potentia coils — no cap cost) |
 | Role | Savant (core p78), assigned by Patron (+50 XP, PG p49) | Logic 2, Piloting 1; specialisations Lore (Cult Mechanicus) 1, Tech (Engineering) 1; Talents Data Delver, Eidetic Memory; equipment below |

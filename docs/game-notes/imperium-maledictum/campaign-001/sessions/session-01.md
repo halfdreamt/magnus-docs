@@ -47,6 +47,18 @@ out-of-character remarks prefixed `(OOC: ...)`; seeded rolls via
   persistent Sonnet agent active)
 - The chronicler servo-skull (Muniment; not yet named in fiction)
 
+## Roll audit (seeds; not shown at table)
+
+- Characteristic rolls at creation: 9408506571313829110, 14322757292927687260,
+  3854443507518907911, 9494015354067434163, 4684780511028258541,
+  17452008852967923806, 10785564014238954256, 13699932282218616426,
+  12655697918485215715.
+- Flashback Awareness (Sound), Easy: 78 vs 70, fail — seed 705943461075405674.
+- Connection 1: Discipline (Composure) 39, +0, +1 SL: rolled 48, fail (−0) —
+  seed 17622307706702084001.
+- Connection 2: same, Advantage (Rite, canon C17): rolled 51→15, success
+  +3 SL — seed 7923098892027839221.
+
 ## Clues and player conclusions
 
 ## Mechanical changes
