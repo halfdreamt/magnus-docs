@@ -1,12 +1,22 @@
-# Patron: working design
+# Patron: Magos Acquisitor Herazade Vex-Kappa-9
 
-This file records accepted campaign-preparation decisions. No Patron has yet
-appeared in play, so presentation details may still be refined without
-retconning established fiction.
+Canonized 2026-08-14 (Ryan's delegation). No Patron scene has yet entered
+play, so presentation may still be polished without retcon; the mechanical
+package is final.
+
+## Identity
+
+She/her. Formerly of forge world Tran'lo; curator of Acquisitor Vault
+Alpha-XIII aboard *Recollections of Rust*, working the century-deep backlog
+of Explorator finds; reports upward, distantly, into Triumvir Lathe
+Axis-438's Quest-for-Knowledge remit. Rarely present in person; missives by
+encrypted vox-thief, data-slate homily, and servo-skull courier, with
+unannounced appearances when a find warrants it. Creed: "Curiosity is not
+transgression. Curiosity without containment is."
 
 ## Mechanical foundation
 
-| Element | Current choice |
+| Element | Choice |
 | --- | --- |
 | Faction | Adeptus Mechanicus |
 | Duty | Invictus Acquisitor |
@@ -14,6 +24,8 @@ retconning established fiction.
 | Motivation | Information |
 | Demeanour | Pragmatic mentor |
 | Duty Boon | Data-Trawler |
+| Additional Boons | Tech-Acquisitor (PG p44), Augmetics Bay (core p31), Void Logistician (MRG p110) |
+| Secret Liabilities | Four; chosen and recorded GM-side (`gm/world/canon.md`) |
 | Faction Influence | +2 Adeptus Mechanicus before other effects |
 | Payment Grade | Standard before other effects |
 
@@ -120,16 +132,19 @@ Bay + Void Logistician, with Conclave of Expertise's function covered
 narratively by the Patron's network. None of the additional Boons, and
 therefore none of their corresponding secret Liabilities, are selected yet.
 
-## Still to decide
+## Decided (2026-08-14)
 
-- Patron name, title string, forge affiliation, physical presentation, and
-  preferred means of communication.
-- Final additional Boons; the GM then records one secret Liability for the
-  Duty Boon and one for each additional Boon.
-- The exact incident through which the Patron noticed and recruited the novice.
-- Whether the Noospheric data-tether is installed during character creation or
-  awarded in a short opening prelude.
-- How warm, remote, or possessive the mentoring relationship feels in play.
+- Name, posting, and presentation: as above.
+- Additional Boons: Tech-Acquisitor + Augmetics Bay + Void Logistician;
+  secret Liabilities recorded in the GM ledger.
+- Recruitment incident: "the Error Chorus" — Vesper correctly logged a
+  decommissioned cogitator bank as distressed, not dead; the report crossed
+  Herazade's desk (`gm/world/canon.md` C14).
+- Noospheric data-tether: bestowed in the opening prelude ("Investiture"),
+  procured via Tech-Acquisitor and installed free in the Augmetics Bay,
+  Master Crafted.
+- Mentoring temperature: warm under precision; generous, exacting, never
+  cruel — the relationship's evolution is play, not prep.
 
 ## Source routes
 

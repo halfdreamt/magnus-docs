@@ -1,26 +1,28 @@
 # Campaign 001 state
 
-Last updated: 2026-08-14
+Last updated: 2026-08-14 (canonization pass; Ryan approved concept C, the
+Tech-Acquisitor-led Boon package, and delegated remaining decisions)
 
 ## Established canon
 
-Nothing has entered play yet. The Patron and character entries below are
-accepted preparation, not events established in the fiction.
+Nothing has entered play yet. Everything below is accepted preparation,
+ratified by Ryan on 2026-08-14, and becomes fiction only as it enters play.
 
 ## Table state
 
 | Item | Current state |
 | --- | --- |
-| Campaign premise | Mechanicus investigation and technological reclamation; exact scope unchosen |
-| Patron | Invictus Acquisitor with a technoarcheological discipline; details incomplete |
-| Player character | Very junior, curious Tech-Adept with a noospheric emphasis; unbuilt |
-| Starting world | Unchosen |
-| Starting mission | Unchosen |
-| Active factions | Unchosen |
-| Date in fiction | Unchosen |
-| Party Influence | None recorded |
+| Campaign premise | The custody of wonder: Mechanicus technoarcheology from Voll to the Ark, in Lathe Axis-438's sphere (GM arc: `gm/world/weave.md`) |
+| Patron | Magos Acquisitor Herazade Vex-Kappa-9 (she/her), Invictus Acquisitor; Boons: Data-Trawler + Tech-Acquisitor + Augmetics Bay + Void Logistician; secret Liabilities recorded GM-side |
+| Player character | Adept Vesper Antiphon-6, Grade I Rune-Priest-trained Savant and spirit-speaker; built with open arithmetic in `characters/vesper.md` |
+| Starting world | Voll (Hive Rokarth and the Unsea), during the closing years of Explorator Rotation #46 |
+| Starting mission | Prelude "Investiture" aboard Recollections of Rust, then "The Forge-Temple of the Tides" (`gm/session-1-investiture.md`) |
+| Active factions | Adeptus Mechanicus (Incalcos-6, the Ark), Stilt-fleet Wastelanders, Voll chem-guilds/nobility, with the Vigilites and Inquisition dormant |
+| Date in fiction | c. 012.M42, dated in play by rotation leg (canon C1–C2) |
+| Party assets | Arvus Lighter "Sacristan's Patience" + retained pilot Podra Vellum-Kite (Patron property, imperfect paperwork) |
+| Party Influence | Vesper: +1 Adeptus Mechanicus |
 | Superiority | Not in an encounter |
-| XP, Fate, Wounds, Corruption | No character yet |
+| XP, Fate, Wounds, Corruption | Vesper: 25 XP banked, Fate 3, Wounds 0/13, Corruption 0 |
 
 ## Accepted Patron direction
 
@@ -46,45 +48,28 @@ accepted preparation, not events established in the fiction.
 - Default to theater of the mind. `table-tools.md` records when a Zone map is
   likely to help and what ForMander can already provide.
 
-## Confirm before play
+## Confirm at the table (small, non-blocking)
 
-- Whether this will be one player with one PC, one player controlling a small
-  party, or a campaign that may add other players.
-- Desired mix of investigation, social intrigue, horror, and combat.
-- Tone and content boundaries. The setting assumes authoritarian religion,
-  body horror, oppression, corruption, and lethal violence; none of those
-  themes need to be used without agreement.
-- Guided choices versus random generation. Random character-generation choices
-  can award XP; deliberate choices provide more control.
-- Which optional Patron Boons the players want; the reviewed proposal in
-  `character-options.md` is Tech-Acquisitor + Augmetics Bay + Void
-  Logistician (the last from the Macharian Requisition Guide, granting an
-  Arvus Lighter and pilot).
-- Whether the protagonist's Noospheric data-tether is installed during
-  character creation or granted in an opening prelude.
+- Vesper's pronouns and any name adjustments (sheet uses they/them until
+  Ryan sets them).
+- Content boundaries: default is wonder-forward grimdark with fade-to-black
+  on body-horror specifics (canon O6); Ryan can adjust any time.
+- When additional player-agents join: pitch slots are prepared
+  (`gm/world/weave.md`, multi-player readiness; onboarding in
+  `players/README.md`).
 
-## Open GM decisions
+## Standing rulings
 
-- Select or create a first mission only after Patron and character concepts are
-  known.
-- Choose the Patron's secret Liabilities only after the optional Boons are
-  final. Record them in a GM-only section before play.
-- Decide whether a published Voll adventure is a good fit or whether Campaign
-  001 should begin with an original, smaller tutorial investigation.
-- For a solo-PC game, tune enemy count, ensure access to healing, and provide
-  allies or Patron resources that cover missing specialties without stealing
-  the protagonist's decisions.
-- The core book is internally inconsistent at the Resolve threshold: the
-  dedicated Resolve rules on page 198 say Superiority equal to or greater than
-  Resolve causes Desperate, while nearby summaries on pages 197 and 318 say
-  greater than. Until official clarification is consulted, Campaign 001 and
-  `imtool.py` use the detailed page 198 rule; Desperate remains a GM-guided
-  narrative state rather than automatic surrender.
+- Resolve threshold follows core p198 (Superiority ≥ Resolve → Desperate);
+  implemented in `imtool.py`; ledgered as canon C8.
+- All other optional-source rulings live in `gm/world/canon.md`; check it
+  before ruling on anything the books leave open, and append new rulings
+  there as they are made in play.
+- Solo-PC support levers (allies, healing access, encounter tuning) are
+  recorded in `gm/insights.md`; revisit when the party grows.
 
-## Preparation, not canon
+## Resume pointers
 
-The strongest tutorial shape is likely a contained investigation with a clear
-mandate, an accessible location, three indispensable clues, two competing
-factions, one opportunity to earn Superiority before a short confrontation,
-and at least one nonviolent resolution. This is a design target, not a decided
-mission.
+Session records go in `sessions/`; established facts merge back into this
+file and the GM world bible (`gm/world/`) per its README method. The first
+session's prep is `gm/session-1-investiture.md`.

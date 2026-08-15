@@ -1,8 +1,12 @@
 # GM insights — Campaign 001
 
-GM-only. Written 2026-08-14, before character creation. Everything here is
-preparation the player has not seen; promote nothing to player-facing docs
-without deliberate GM choice. Page citations: PG = AdMech Player's Guide,
+GM-only. Written 2026-08-14, before character creation; extended the same
+day by the world bible in `world/` (read its README for the method; where
+this file and the bible conflict, the bible wins). The provisional Boon and
+Liability package below was confirmed on 2026-08-14 and is ledgered as
+canon C12–C13 in `world/canon.md`. Everything here is preparation the
+player has not seen; promote nothing to player-facing docs without
+deliberate GM choice. Page citations: PG = AdMech Player's Guide,
 GG = AdMech GM's Guide, MRG = Macharian Requisition Guide, VA = Voll
 Adventures, core = core rulebook.
 
