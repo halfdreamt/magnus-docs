@@ -133,3 +133,11 @@ out-of-character remarks prefixed `(OOC: ...)`; seeded rolls via
 - Next: the lighter bay, the pilot, the Voll mandate.
 
 ## End state and next scene
+
+**Session 01 ended here by Ryan's call (2026-08-15).** Vesper is following
+Herazade out of Vault Alpha-XIII toward a belly-deck lighter bay; the
+Investiture is closed; the mandate has not yet been spoken. **Session 02
+opens at the lighter bay doors**: meet Podra Vellum-Kite and *Sacristan's
+Patience*, receive the Voll mandate from Herazade, depart for Hive
+Rokarth. Prep: `gm/session-1-investiture.md` (Part 0 beat 5 onward, then
+Mission 1); casts in `gm/npc-briefs/`.

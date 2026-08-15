@@ -6,11 +6,12 @@
 - GM: the active GM agent, with these notes as the handoff record.
 - Player: Ryan, as Adept Vesper Antiphon-6 (`characters/vesper.md`);
   additional agent-led players expected (`players/README.md`).
-- Stage: canonized and ready for session 1 (`gm/session-1-investiture.md`).
+- Stage: Session 01 (Investiture) complete; Session 02 opens at the
+  lighter bay. GM handoff: `gm/GM-BRIEFING.md`.
 - Campaign title: intentionally unset; use `Campaign 001` until play gives
   it a fitting name.
-- Established fiction: none yet — canonized preparation enters fiction only
-  through play.
+- Established fiction: Session 01 (the Investiture) — see
+  `campaign-state.md` and `sessions/session-01.md`.
 - Active supplements: core rulebook, AdMech Player's and GM's Guides,
   Macharian Requisition Guide, Voll Adventures (GM-only).
 
@@ -24,10 +25,10 @@ An agent taking over as GM should:
    current shared baseline.
 4. Read [patron.md](patron.md) for the accepted Patron direction and remaining
    Patron decisions.
-5. If acting as GM, read `gm/README.md`, `gm/insights.md`, and the world
-   bible under `gm/world/` (start with its README; check `gm/world/canon.md`
-   before any ruling) — and observe the spoiler-hygiene rules in everything
-   player-facing.
+5. If acting as GM, read **`gm/GM-BRIEFING.md`** — the ten-minute
+   handoff — and follow its reading list; the world bible under
+   `gm/world/` is reference, consulted as play reaches it. Observe the
+   spoiler-hygiene rules in everything player-facing.
 6. If acting as a player-agent, read [players/README.md](players/README.md)
    and ONLY the player-safe documents it lists.
 7. Read [tools/README.md](tools/README.md) before the first rolled Test or
@@ -38,16 +39,16 @@ An agent taking over as GM should:
 
 ## Next objective
 
-Run session 1: the Investiture prelude, then "The Forge-Temple of the
-Tides" (`gm/session-1-investiture.md`). Do not front-load the setting
-encyclopedia — [world-primer.md](world-primer.md) covers what Vesper would
-know; explain everything else when play makes it relevant.
+Run Session 02: the lighter bay (meet the pilot and *Sacristan's
+Patience*), the Voll mandate, then "The Forge-Temple of the Tides"
+(`gm/session-1-investiture.md`, Part 0 beat 5 onward). Do not front-load
+the setting encyclopedia — [world-primer.md](world-primer.md) covers what
+Vesper would know; explain everything else when play makes it relevant.
 
 ## Play support
 
 - [World primer](world-primer.md): the player-safe setting reference.
-- [Vesper's sheet](characters/vesper.md): full build with open arithmetic
-  and roll seeds.
+- [Vesper's sheet](characters/vesper.md): full build with open arithmetic.
 - [Player-agent guide](players/README.md): onboarding and spoiler contract
   for agent-led players.
 - [Character and campaign options](character-options.md): the reviewed

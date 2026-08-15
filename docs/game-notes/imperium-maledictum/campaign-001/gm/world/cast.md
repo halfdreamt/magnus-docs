@@ -1,6 +1,6 @@
 # Dramatis personae — GM-only
 
-Last updated: 2026-08-14 (GG deep read through p91; Voll cast pending).
+Last updated: 2026-08-15 (Session 01 additions; Voll mission cast in npc-briefs).
 Format: who → wants → secret → edges (connections to other cast/factions).
 Player-safe knowledge is marked ☼; everything else is GM-only.
 
@@ -186,6 +186,20 @@ hunts them; Lathe secretly fascinated/in contact).
   sect, which runs under Lathe's protection. Believes in Vesper.
   Creed: "Curiosity is not transgression. Curiosity without containment is."
 - **Vesper** — the PC; see ../../characters/vesper.md (player-visible).
+- **Overseer Cambric-4** — reclamation overseer; stamped past the boy who
+  saved his survey (brief: ../npc-briefs/cambric-4.md).
+- **Enginseer Third-Class Podra Vellum-Kite** (she/her) — retained Arvus
+  pilot; talkative, superstitious, Loyalty +1 → Loyal Companion candidate
+  (brief: ../npc-briefs/podra-vellum-kite.md).
+- **Muniment** — the chronicler servo-skull; the Obsolete Observer
+  liability embodied (brief: ../npc-briefs/muniment.md).
+- **Mission 1 cast** — Matriarch Ousel Brine-Aunt and grandson Tesk
+  (Stilt-fleet), Vasco Truel (Mercator Lenimen factor; T2's first rung),
+  Auditor-Adept Sabine Rho-11 (Incalcos-6 liaison) — ../npc-briefs/mission-1-cast.md.
+- **The Tran'lo music-loom** — Herazade's devotional engine, forty years in
+  her keeping; three pre-liturgical pins carry a human lullaby (cradle-
+  engine heart, likely Dark Age). Vesper's first communion; "spirit-
+  brother." A machine that remembers being loved — T1-adjacent texture.
 - Relationship geometry: Herazade (containment-curiosity) and Lathe
   (liberated-curiosity) are the two poles of Vesper's future; Obsidian's
   Vectorii and Zahn's Inquisition are the two watchers; Ketheros is the

@@ -78,7 +78,7 @@ perceive and use the noosphere (PG p97). The Master Crafted work grants
 
 ## Identity
 
-- **What they do:** listen to machine spirits others have given up on, and
+- **What he does:** listen to machine spirits others have given up on, and
   wake what deserves waking — under sanction, with the incense lit.
 - **What they want:** to stand in a place no one has heard in ten thousand
   years and be answered. (And, someday: a hull of their own, with friends
@@ -90,8 +90,8 @@ perceive and use the noosphere (PG p97). The Master Crafted work grants
 - **Long-term goal:** the ship; the deep ruins; the answer.
 - **Faith:** the Omnissiah is real and *kind to machines*, which is more
   than Vesper can say for the Imperium. · **Fear:** being heard by
-  something in the noosphere that should not know their name. · **Line
-  they won't cross:** letting a machine spirit be tortured, even a
+  something in the noosphere that should not know his name. · **Line
+  he won't cross:** letting a machine spirit be tortured, even a
   corrupted one — purge it or free it, never toy with it.
 - **Opinion of the Patron:** gratitude shading into wariness — Herazade's
   gifts are generous, precise, and always arrive before Vesper knows to

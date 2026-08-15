@@ -1,12 +1,32 @@
 # Campaign 001 state
 
-Last updated: 2026-08-14 (canonization pass; Ryan approved concept C, the
-Tech-Acquisitor-led Boon package, and delegated remaining decisions)
+Last updated: 2026-08-15 (end of Session 01)
 
 ## Established canon
 
-Nothing has entered play yet. Everything below is accepted preparation,
-ratified by Ryan on 2026-08-14, and becomes fiction only as it enters play.
+Session 01 (2026-08-14/15) is fiction. Summary; full detail in
+`sessions/session-01.md`:
+
+- The Error Chorus (flashback): at fourteen, with flesh ears, Vesper
+  logged cogitator unit Theta-Kappa-77-KO as distressed, not dead —
+  under his own designation, at Overseer Cambric-4's insistence — and was
+  vindicated. The unit was carried up-deck; destination untold.
+- Herazade Vex-Kappa-9 summoned him to Acquisitor Vault Alpha-XIII,
+  catechised him, offered the compact; Vesper swore an unasked oath upon
+  the Trinity and the Sixteen Universal Laws — the Cult Mechanicus first,
+  "…and the Imperium" after. She noticed and did not correct.
+- The Investiture: a Master Crafted Noospheric data-tether, installed by
+  her own rite; an involuntary half-second of sight at seating.
+- First communion, with a Tran'lo devotional music-loom: clean. Vesper
+  learned to attend to the pull within a Rite rather than grasp. He read
+  the loom's history — carried aboard in Herazade's own hands ~40 years
+  ago — and found three pre-liturgical pins: a wordless human lullaby,
+  likely Dark Age. Herazade did not know. His report led with the
+  containment verdict ("pure"), then disclosed everything.
+- Herazade said his whole name outside the liturgy during the rite;
+  neither has mentioned it.
+
+Preparation not yet in fiction: the lighter, the pilot, the mandate, Voll.
 
 ## Table state
 
@@ -22,7 +42,7 @@ ratified by Ryan on 2026-08-14, and becomes fiction only as it enters play.
 | Party assets | Arvus Lighter "Sacristan's Patience" + retained pilot Podra Vellum-Kite (Patron property, imperfect paperwork) |
 | Party Influence | Vesper: +1 Adeptus Mechanicus |
 | Superiority | Not in an encounter |
-| XP, Fate, Wounds, Corruption | Vesper: 25 XP banked, Fate 3, Wounds 0/13, Corruption 0 |
+| XP, Fate, Wounds, Corruption | Vesper: 65 XP banked, Fate 3/3, Wounds 0/13, Corruption 0; tether installed (3/4 augmetic slots) |
 
 ## Accepted Patron direction
 
@@ -71,6 +91,8 @@ ratified by Ryan on 2026-08-14, and becomes fiction only as it enters play.
 
 ## Resume pointers
 
-Session records go in `sessions/`; established facts merge back into this
-file and the GM world bible (`gm/world/`) per its README method. The first
-session's prep is `gm/session-1-investiture.md`.
+**GM: read `gm/GM-BRIEFING.md` first** — it is the ten-minute handoff and
+points to exactly what the next session needs. Session records go in
+`sessions/`; established facts merge back into this file and the GM world
+bible (`gm/world/`) per its README method. Session 02 prep:
+`gm/session-1-investiture.md` from Part 0 beat 5 onward.

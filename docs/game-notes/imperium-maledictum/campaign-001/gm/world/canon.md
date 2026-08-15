@@ -1,6 +1,6 @@
 # Canon decisions — GM-only ledger
 
-Last updated: 2026-08-14. Every optional, ambiguous, or contradictory
+Last updated: 2026-08-15. Every optional, ambiguous, or contradictory
 element the campaign has ruled on. Format: **ID — ruling** (source; blast
 radius). Statuses: CANON (ruled), OPEN (deliberately undecided), TABLE
 (needs Ryan/table input before it can matter). Check here before ruling on
@@ -104,6 +104,16 @@ in play.
   free quality): +1 SL to the Discipline (Composure) connection Test. A
   gift that whispers of how much was spent on a novice.
 
+- **C18 — Herazade's loom.** The devotional music-loom in her Augmetics
+  Bay came from Tran'lo in her own hands ~40 years ago; its cylinder-drum
+  predates its liturgy — three pins carry a wordless human lullaby from a
+  cradle-engine or nursery-core, likely Dark Age. She did not know until
+  Session 01. Small thread; let it grow slowly. (Established in play.)
+- **Liability log:** Session 01 — none fired. Muniment established as
+  harmless texture (Obsolete Observer, not yet consequential); the
+  lighter's paperwork "wobble" seeded but unfired (Filed in Triplicate);
+  Meticulous Archivist implied by "note that in your own log… I will want
+  it exact"; Hidden Adherent untouched.
 - **C17 — Rites and connection.** A Binharic Rite spoken specifically to
   prepare a noospheric connection (e.g. Supplication of Elucidation as a
   petition to be admitted) grants Advantage on the Discipline (Composure)

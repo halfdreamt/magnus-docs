@@ -18,7 +18,15 @@ Spoiler hygiene for agents:
 - When citing sources to Ryan, cite the Player's Guide or core book wherever
   a player-safe equivalent exists.
 
-Contents:
+Contents (read in this order for a handoff):
 
-- [insights.md](insights.md) — campaign-arc design, secret Patron decisions,
-  and the GM reading of the NPCs Ryan has expressed interest in.
+- [GM-BRIEFING.md](GM-BRIEFING.md) — **start here**: the ten-minute
+  handoff, the beat loop, and the reading list for the next session.
+- [table-notes.md](table-notes.md) — table mandates and Ryan's style.
+- [session-1-investiture.md](session-1-investiture.md) — current prep
+  (Session 02 picks up at Part 0 beat 5).
+- [npc-briefs/](npc-briefs/README.md) — persistent character prompts and
+  State lines for subagent-played NPCs.
+- [world/](world/README.md) — the world bible (canon ledger, cast,
+  factions, gazetteer, weave). Reference; check canon.md before rulings.
+- [insights.md](insights.md) — the founding design memo (background).
