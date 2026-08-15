@@ -20,6 +20,20 @@ after each session or notable beat.
   character said, since NPCs react to specific wording. Dice results may
   shape the translated delivery (e.g. a failed Test degrades precision);
   say so explicitly when it happens.
+- **MANDATORY — checks in the open (Ryan, 2026-08-14):** before any Test
+  involving his character, the GM declares in the visible narration: the
+  Skill/Specialisation, base value, Difficulty and modifiers, and the
+  stakes. The result line (roll, SL, seed) and its interpretation follow
+  in the same message. No summarized or off-screen rolls for PC-facing
+  Tests.
+- **MANDATORY — authorship (Ryan, 2026-08-14):** the GM never resolves a
+  PC's dialogue or actions beyond the player's stated intent. If an NPC
+  reaction requires a PC response the player has not given, pause the
+  scene and return to the player — even mid-beat. Any NPC-agent dispatch
+  that must contain PC words or conduct is shown to the player in full
+  and signed off BEFORE it is sent. (Violated in Session 01's flashback —
+  the pressed-for-specifics exchange was pre-rendered without Ryan;
+  rewind offered.)
 - **NPC subagents:** recurring NPCs get persistent briefs in
   `npc-briefs/`; brief interactions may be delegated to small
   (Haiku/Sonnet-class) subagents that receive ONLY their character's
