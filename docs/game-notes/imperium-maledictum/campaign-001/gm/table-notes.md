@@ -14,6 +14,12 @@ after each session or notable beat.
   play proceeds. Ryan intends to graduate to writing his own cant "very
   soon" — keep offering small, digestible lessons (honorifics, idiom,
   ritual forms) and celebrate correct usage when it appears.
+  **MANDATORY (Ryan, 2026-08-14): every translated line must be quoted to
+  Ryan word-for-word, in the moment, marked as canon dialogue — before or
+  alongside the NPC's response.** He must always know exactly what his
+  character said, since NPCs react to specific wording. Dice results may
+  shape the translated delivery (e.g. a failed Test degrades precision);
+  say so explicitly when it happens.
 - **NPC subagents:** recurring NPCs get persistent briefs in
   `npc-briefs/`; brief interactions may be delegated to small
   (Haiku/Sonnet-class) subagents that receive ONLY their character's
