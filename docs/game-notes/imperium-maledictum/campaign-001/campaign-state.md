@@ -50,8 +50,9 @@ ratified by Ryan on 2026-08-14, and becomes fiction only as it enters play.
 
 ## Confirm at the table (small, non-blocking)
 
-- Vesper's pronouns and any name adjustments (sheet uses they/them until
-  Ryan sets them).
+- (Settled: Vesper uses he/him. Table convention: out-of-character remarks
+  are prefixed `(OOC: ...)`.)
+
 - Content boundaries: default is wonder-forward grimdark with fade-to-black
   on body-horror specifics (canon O6); Ryan can adjust any time.
 - When additional player-agents join: pitch slots are prepared

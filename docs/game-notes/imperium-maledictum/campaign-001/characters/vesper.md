@@ -1,8 +1,7 @@
 # Adept Vesper Antiphon-6
 
 Player: Ryan. Player-visible sheet; the arithmetic is shown in full so any
-agent (or Ryan) can audit it. Pronouns: Ryan's call at the table — docs use
-they/them until set.
+agent (or Ryan) can audit it. Pronouns: he/him (set by Ryan, 2026-08-14).
 
 *Grown in the gene-vats of the Ark Mechanicus "Recollections of Rust." As a
 menial initiate, logged a decommissioned cogitator bank as* distressed, not

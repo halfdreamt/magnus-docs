@@ -92,8 +92,7 @@ in play.
 
 ## Player character
 
-- **C15 — Vesper.** Adept **Vesper Antiphon-6**; pronouns left to Ryan at
-  the table (docs use they/them until set). Origin: Forge World —
+- **C15 — Vesper.** Adept **Vesper Antiphon-6**; he/him (Ryan, 2026-08-14). Origin: Forge World —
   *Recollections of Rust* (PG named origin). Faction: Adeptus Mechanicus,
   Augmented Grade I, Apprentice Rune Priest duty package. Role: Savant,
   assigned by the Patron (+50 XP, PG p49). Characteristics: rolled 2d10+20

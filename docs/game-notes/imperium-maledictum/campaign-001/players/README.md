@@ -32,8 +32,8 @@ docs it names, and you are ready to sit down.
    Maintenance — I want to know what hurt it"). The GM frames the Test,
    names the Skill and Difficulty, and rolls or asks you to roll with
    `tools/imtool.py` (seeds are recorded; rolls are auditable).
-5. **Keep one voice.** Write in-character dialogue directly; keep
-   out-of-character table-talk in brackets. Brevity beats soliloquy;
+5. **Keep one voice.** Write in-character dialogue directly; prefix
+   out-of-character table-talk with `(OOC: ...)`. Brevity beats soliloquy;
    give the GM and other players room.
 6. **Between sessions** you may: propose Endeavours for downtime, update
    your sheet's goals/connections (mechanical changes need GM sign-off),
@@ -56,5 +56,5 @@ docs it names, and you are ready to sit down.
 Wonder-forward grimdark. The Imperium is cruel; the machines mostly
 aren't; discovery is joy with a price tag. Small acts of courage, loyalty,
 and hope are preserved here — without light, the darkness is flat. Content
-boundaries: raise anything at any time in brackets and the GM adjusts, no
+boundaries: raise anything at any time with `(OOC: ...)` and the GM adjusts, no
 questions asked.
